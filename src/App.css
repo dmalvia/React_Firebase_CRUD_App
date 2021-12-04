@@ -1,7 +1,23 @@
-.App {
-  text-align: center;
+.header .container {
+  justify-content: center;
+}
+.input-group-text {
+  background-color: #212529;
+  color: #fff;
+  font-weight: bold;
+}
+.edit,
+.delete {
+  padding: 0px 6px;
+  border-radius: 2px;
 }
 
+.edit {
+  margin-right: 10px;
+}
+table {
+  text-align: center;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
